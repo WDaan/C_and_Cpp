@@ -1,0 +1,7 @@
+cirkel 0
+rechthoek 1 2
+vierkant 3.3
+cirkel 4
+cirkel 5
+rechthoek 6.6 7
+vierkant 8
